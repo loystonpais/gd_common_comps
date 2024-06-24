@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://ccfh2w31muwoe"]
+
+[ext_resource type="Script" path="res://components/gd_common_comps/interaction_components/interactor/Interactor.gd" id="1_mv4rv"]
+
+[node name="Interactor" type="Node"]
+script = ExtResource("1_mv4rv")
+trigger_only_once = true

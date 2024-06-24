@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cp3u4pbre2oq3"]
+
+[ext_resource type="Script" path="res://components/gd_common_comps/decal_generator/decal_generator.gd" id="1_gi3k5"]
+
+[node name="DecalGenerator" type="Node" node_paths=PackedStringArray("add_to_node")]
+script = ExtResource("1_gi3k5")
+add_to_node = NodePath(".")

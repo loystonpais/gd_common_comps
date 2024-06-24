@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cjwlh1ccbl1np"]
+
+[ext_resource type="Script" path="res://components/gd_common_comps/blender_pipeline/auto_material_applier/auto_material_applier.gd" id="1_16q8c"]
+
+[node name="AutoMaterialApplier" type="Node"]
+script = ExtResource("1_16q8c")

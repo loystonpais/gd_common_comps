@@ -1,0 +1,6 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://cr1y14fno8063"]
+
+[ext_resource type="Script" path="res://components/gd_common_comps/blender_pipeline/auto_material_applier/resources/Surface.gd" id="1_y2ldf"]
+
+[resource]
+script = ExtResource("1_y2ldf")

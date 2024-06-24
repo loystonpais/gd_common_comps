@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bffxyf5ncj70m"]
+
+[ext_resource type="Script" path="res://components/gd_common_comps/basic_door_interaction/BasicDoorInteraction.gd" id="1_o4bm7"]
+
+[node name="BasicDoorInteraction" type="Node"]
+script = ExtResource("1_o4bm7")
+default_door_state = 1

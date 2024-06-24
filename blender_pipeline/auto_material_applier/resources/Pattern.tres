@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="AutoMaterialApplierResource" load_steps=2 format=3 uid="uid://byb3kokpqjabf"]
+
+[ext_resource type="Script" path="res://components/gd_common_comps/blender_pipeline/auto_material_applier/resources/Pattern.gd" id="1_s81xp"]
+
+[resource]
+script = ExtResource("1_s81xp")
+surface_override_materials = Array[Material]([])
+name_begins_with = ""

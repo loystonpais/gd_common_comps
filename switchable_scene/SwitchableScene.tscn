@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dvc5776g8vwk6"]
+
+[ext_resource type="Script" path="res://components/gd_common_comps/switchable_scene/SwitchableScene.gd" id="1_u0x84"]
+
+[node name="SwitchableScene" type="Node3D"]
+script = ExtResource("1_u0x84")
